@@ -6,7 +6,7 @@ A ResNet50 fine-tuned for identifying birds in photos.
 
 This is a fun project is done primarily to get myself acquainted with PyTorch. The model used here is a custom implementation of ResNet50 fine-tuned with IMAGENET 1K weights.
 
-[Dataset source]([BIRDS 525 SPECIES- IMAGE CLASSIFICATION | Kaggle](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)).
+[Dataset source](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).
 
 ## Getting Started
 
